@@ -1,0 +1,137 @@
+# 🌲 Vonne Pack — Official Story Universe
+
+> Official repository for the Vonne Pack books and the VONS universe.
+
+**Author & Creator:** Avyaan Mishra
+
+---
+
+## 📖 About Vonne Pack
+
+Vonne Pack is an original fantasy adventure series set in the world of the **VONS**, mystical creatures who live in forests powered by elemental abilities.
+
+The series follows Sparkyle, Leafily, Vonn, Vonne, and Tulip as they uncover ancient mysteries, fight the Reatate Virus, and discover the true history of their world.
+
+This repository contains the official manuscripts, character artwork, and universe documentation.
+
+---
+
+## 🌍 Canon Timeline
+
+### 📘 Book One — Vonne Pack 1
+
+The story begins in a **completely colorless world**.
+
+The villain **Reatate** has stolen every color from nature using the Reatate Virus. Forests, skies, plants, and even hope exist only in shades of grey.
+
+During the story:
+
+- Tulip joins the Vonne Pack.
+- The Hallmarket Observation Team (H.O.T.) warns about cosmic threats.
+- The family discovers the source of the Reatate Virus.
+- Sparkyle fights Reatate to protect his family.
+- **Vonn sacrifices himself** to save Vonne from a deadly attack.
+- The Calces awakens and helps destroy Reatate.
+
+### ✨ End of Book One
+
+Reatate is defeated forever.
+
+The virus disappears.
+
+The curse is broken.
+
+**The entire VONS world becomes colorful again.**
+
+This is the single biggest event in the Vonne Pack universe.
+
+---
+
+### 📙 Book Two — Vonne Pack 2
+
+Book Two takes place **after the restoration of color**.
+
+The world is alive again.
+
+The Vonne Pack now explores the restored forest instead of surviving inside a cursed one.
+
+Major events include:
+
+- Discovery of the mysterious heartbeat signal.
+- First contact with the Dantil scouts.
+- The Sanctuary and the Vault of the VONS.
+- Ancient VONS technology.
+- The Calces evolves into an ancient key.
+- Discovery that much of the forest is still unknown.
+
+Book Two expands the history of the VONS civilization.
+
+---
+
+## 🌈 The Return of Color
+
+The colors of the characters become officially defined only **after Book One**.
+
+| Character | Official Color |
+|-----------|----------------|
+| Sparkyle | Electric Blue |
+| Leafily | Leaf Green |
+| Vonn | Water Blue |
+| Vonne | Purple |
+| Tulip | Aqua Blue |
+
+These colors are part of the restored world.
+
+---
+
+## 👨👩👧👦 Main Characters
+
+### Sparkyle
+The eldest sibling and protector of the Vonne Pack.
+
+### Leafily
+A Leaf Mystic who protects nature and her family.
+
+### Vonn
+Young inventor of the **Calces** gadget and one of the bravest members of the family.
+
+### Vonne
+Youngest explorer whose courage grows throughout the story.
+
+### Tulip
+A Water Mystic rescued during Book One who becomes part of the family.
+
+### Reatate
+The original villain responsible for stealing color from the VONS world.
+
+---
+
+## 🌌 Universe Lore
+
+- **Species:** VONS
+- **Observation Organization:** Hallmarket Observation Team (H.O.T.)
+- **Sun:** 354d Bros (after the restoration era).
+- **Calces:** Ancient invention connected to VONS technology.
+- **Dantils:** Intelligent insect civilization guarding ancient sanctuaries.
+
+---
+
+## 📚 Repository Contents
+
+- Official manuscripts.
+- Character sketches.
+- Universe lore.
+- Canon references.
+- Future official books.
+
+---
+
+## ⚠️ Canon Notice
+
+---
+
+## © Copyright
+
+© 2026 Avyaan Mishra. All rights reserved.
+
+See `LICENSE.txt` for the official story copyright and fan-use permissions.
